@@ -1,1 +1,1 @@
-# aws-terraform-cicd
+# aws-terraform-template
